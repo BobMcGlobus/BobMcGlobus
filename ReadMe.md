@@ -15,8 +15,5 @@ Moin, <br>my name is Jonas, and I’m a rookie web developer from Germany.<br><b
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=BobMcGlobus&icon=1&color=11)](https://visitcount.itsvg.in)
