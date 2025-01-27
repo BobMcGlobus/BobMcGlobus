@@ -1,5 +1,5 @@
 # 💫 About Me:
-Moin, <br>my name is Jonas, and I’m a rookie web developer from Germany.<br><br>🔭 I’m currently working on parcel tracking for home assistant.<br>💬 Hobby-wise I am very interested in home automation.<br>⚡ Fun fact I'm quite much of a nerd, especially when it comes to Doctor Who and the works of Tolkien.
+Moin, <br>my name is Jonas, and I’m a rookie web developer from Germany.<br><br>💬 Hobby-wise I am very interested in home automation.<br>⚡ Fun fact I'm quite much of a nerd, especially when it comes to Doctor Who and the works of Tolkien.
 
 
 ## 🌐 Socials:
